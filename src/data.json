@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "US and Canada",
+    "tours": [
+      {
+        "id": 1,
+        "name": "Prince Edwards",
+        "duration": 5,
+        "rating": 4.8,
+        "numberOfReviews": 1004,
+        "price": 465,
+        "image": "https://st.hzcdn.com/simgs/87c189a2063173f3_3-1433/home-design.jpgg"
+      },
+      {
+        "id": 2,
+        "name": "New York",
+        "duration": 8,
+        "rating": 3.5,
+        "numberOfReviews": 641,
+        "price": 385,
+        "image": "https://cdn.futura-sciences.com/cdn-cgi/image/width=1024,quality=50,format=auto/sources/images/gratte-ciel-New-York.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Ontario",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 133,
+        "price": 144,
+        "image": "https://www.niagarafallsstatepark.com/~/media/parks/niagara-falls/attractions-and-tours/illumination/niagarafalls-illumination-header-desktop.jpg?h=500&w=1500&la=en&hash=123E6D5F1744FBCC74EC36570E77872608D24891g"
+      },
+      {
+        "id": 4,
+        "name": "Seattle",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://www.travelinusa.us/wp-content/uploads/sites/3/2018/11/Quando-andare-a-Seattle-Clima-e-Temperature.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Asia",
+    "tours": [
+      {
+        "id": 4,
+        "name": "Japan",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://content.r9cdn.net/rimg/dimg/38/93/de70f3b4-city-20339-551a6f73.jpg?crop=true&width=1020&height=498"
+      },
+      {
+        "id": 5,
+        "name": "Bangkok",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://www.overlandtour.de/wp-content/uploads/2023/02/Wat-Paknam-Phasi-Charoen-32.jpg"
+      },
+      {
+        "id": 6,
+        "name": "India",
+        "duration": 8,
+        "rating": 3.5,
+        "numberOfReviews": 641,
+        "price": 385,
+        "image": "https://indotoursadventures.com/public/storage/blogs/d4cd91da972622aaadc74d6aad6bb615.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Iran",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 133,
+        "price": 144,
+        "image": "https://as2.ftcdn.net/v2/jpg/05/00/41/71/1000_F_500417126_BrtEuUqWL86IAhayekuERQjStvJGVRAw.jpg"
+      }
+    ]
+  }
+]
